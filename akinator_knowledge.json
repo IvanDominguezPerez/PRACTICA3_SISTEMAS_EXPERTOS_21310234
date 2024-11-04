@@ -1,0 +1,147 @@
+{
+    "question": "\u00bfEs un piloto de la parrilla actual?",
+    "yes": {
+        "question": "\u00bfTu piloto es Mexicano?",
+        "yes": {
+            "name": "Sergio Perez"
+        },
+        "no": {
+            "question": "\u00bfTu piloto es Holandes?",
+            "yes": {
+                "name": "Max Verstappen"
+            },
+            "no": {
+                "question": "\u00bfTu piloto es Ingles?",
+                "yes": {
+                    "question": "\u00bfTu piloto corre para Mclaren?",
+                    "yes": {
+                        "name": "Lando Norris"
+                    },
+                    "no": {
+                        "question": "\u00bfEs 7 veces campeon del mundo?",
+                        "yes": {
+                            "name": "Lewis Hamilton"
+                        },
+                        "no": {
+                            "question": "\u00bfTu personaje debuto en Williams y esta en Mercedes?",
+                            "yes": {
+                                "name": "George Russell"
+                            },
+                            "no": {}
+                        }
+                    }
+                },
+                "no": {
+                    "question": "\u00bfTu personaje es Finlandes?",
+                    "yes": {
+                        "name": "Valtteri Bottas"
+                    },
+                    "no": {
+                        "question": "\u00bfTu piloto es Argentino?",
+                        "yes": {
+                            "name": "Franco Colapinto"
+                        },
+                        "no": {
+                            "question": "\u00bfTu personaje es Frances?",
+                            "yes": {
+                                "question": "\u00bfTu personaje pertenecio a la academia de Red bull?",
+                                "yes": {
+                                    "name": "Pierre Gasly"
+                                },
+                                "no": {
+                                    "question": "\u00bfTu personaje fue compa\u00f1ero de equipo de Checo P\u00e9rez?",
+                                    "yes": {
+                                        "name": "Esteban Ocon"
+                                    },
+                                    "no": {}
+                                }
+                            },
+                            "no": {
+                                "question": "\u00bfTu piloto es Espa\u00f1ol?",
+                                "yes": {
+                                    "question": "\u00bfTu personaje corrio para Mclaren?",
+                                    "yes": {
+                                        "name": "Carlos Sainz"
+                                    },
+                                    "no": {
+                                        "question": "\u00bfTu piloto fue Campeon del Mundo?",
+                                        "yes": {
+                                            "name": "Fernando Alonso"
+                                        },
+                                        "no": {}
+                                    }
+                                },
+                                "no": {
+                                    "question": "\u00bfTu piloto es Australiano?",
+                                    "yes": {
+                                        "name": "Oscar Piastri"
+                                    },
+                                    "no": {
+                                        "question": "\u00bfTu piloto es Japones?",
+                                        "yes": {
+                                            "name": "Yuki Tsunoda"
+                                        },
+                                        "no": {
+                                            "question": "\u00bfTu piloto es Aleman?",
+                                            "yes": {
+                                                "name": "Nico Hulkenberg"
+                                            },
+                                            "no": {
+                                                "question": "\u00bfTu piloto es de Monaco?",
+                                                "yes": {
+                                                    "name": "Charles Leclerc"
+                                                },
+                                                "no": {
+                                                    "question": "\u00bfTu piloto es de Dinamarca?",
+                                                    "yes": {
+                                                        "name": "Kevin Magnussen"
+                                                    },
+                                                    "no": {}
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        }
+    },
+    "no": {
+        "question": "\u00bfTu personaje fue campeon del mundo?",
+        "yes": {
+            "question": "\u00bfFue 7 veces campeon del mundo?",
+            "yes": {
+                "name": "Michael Schumacher"
+            },
+            "no": {
+                "question": "\u00bfTu piloto era Brasile\u00f1o?",
+                "yes": {
+                    "name": "Ayrton Senna"
+                },
+                "no": {}
+            }
+        },
+        "no": {
+            "question": "\u00bfTu piloto era Mexicano?",
+            "yes": {
+                "name": "Pedro Rodriguez"
+            },
+            "no": {
+                "question": "\u00bfTu piloto es Australiano?",
+                "yes": {
+                    "name": "Daniel Riccardo"
+                },
+                "no": {
+                    "question": "\u00bfEra considerado el piloto mas atractivo de su epoca?",
+                    "yes": {
+                        "name": "James Hunt"
+                    },
+                    "no": {}
+                }
+            }
+        }
+    }
+}
